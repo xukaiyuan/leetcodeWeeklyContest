@@ -54,6 +54,7 @@ class Solution(object):
 
         return res
 
+# Q3: Sort all triples (row + col, col, nums[row][col]) in ascending order, then output only thrid elements.
 class Solution(object):
     def maxScore(self, cardPoints, k):
         """
